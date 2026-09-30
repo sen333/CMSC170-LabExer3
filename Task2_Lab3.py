@@ -87,7 +87,7 @@ def show_instructions():
     print("configuration of tiles, and move them to match")
     print("the final configuration.\n")
     print("Rules:")
-    print("1. Input the initial state of the puzzle using")
+    print("1. Input the initial state and goal state of the puzzle using")
     print("   this format:")
     print("     [1, 2, 3, 4, ' ', 8, 5, 6, 7]")
     print("2. Use the following keys to move the empty")
